@@ -20,7 +20,7 @@
     "@tiptap/starter-kit": "2.3.2",
     "@tiptap/vue-3": "2.3.2",
     "@tsconfig/node20": "20.1.4",
-    "@typescript-eslint/parser": "^7.8.0",
+    "@typescript-eslint/parser": "^7.18.0",
     "apexcharts": "3.49.1",
     "lodash": "4.17.21",
     "pinia": "2.1.7",
