@@ -22,7 +22,7 @@
     "@tsconfig/node20": "20.1.4",
     "@typescript-eslint/parser": "^7.8.0",
     "apexcharts": "3.49.1",
-    "lodash": "4.17.21",
+    "lodash": "4.17.23",
     "pinia": "2.1.7",
     "resolve-url-loader": "^5.0.0",
     "vee-validate": "4.12.8",
